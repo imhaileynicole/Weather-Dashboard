@@ -1,0 +1,76 @@
+.jumbotron{
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(141, 27, 207);
+    
+  
+}
+
+.display-5 {
+    font-style: sans-serif;
+    color: white;
+    
+   
+}
+
+
+p, a{
+  font: 'Trebuchet MS', sans-serif;
+}
+
+
+.nav-link-dropdown-toggle {
+    background-color: white;
+}
+
+.btn-primary {
+    color: cornsilk;
+}
+h1{
+    
+    font: 'Lucida Sans',sans-serif;
+    font-size: 4rem;
+    font-weight: 600;
+}
+.high{
+    border-radius: 6px;
+    padding: 5px;
+    background-color: orange;
+    color: black;
+}
+
+.vhigh{
+    border-radius: 6px;
+    padding: 5px;
+    color: yellow;
+    background-color: rgb(19, 210, 25);
+}
+
+h3, h4, h5{
+  font: 'Trebuchet MS', sans-serif;
+  font-weight: 600;
+}
+
+.low{
+    border-radius: 6px;
+    background-color: rgb(52, 191, 52);
+    padding: 5px;
+    color: white;
+}
+
+.moderate{
+    border-radius: 6px;
+    background-color: yellow;
+    padding: 5px;
+    color: black;
+}
+
+
+.extreme{
+    border-radius: 6px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(134, 73, 203);
+}
+
